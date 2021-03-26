@@ -54,7 +54,6 @@ Signed,
 1. Aaru Data Preservation Suite
 1. Calyx Institute
 1. Ceccun
-1. CH Open
 1. CommitChange
 1. Creative Commons
 1. DataMade
@@ -2593,7 +2592,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Wolthera van Hövell (Krita/KDE)
 1. Woohyeong Kim
 1. Wouter Verhelst (Debian Developer, FOSDEM orga team member)
-1. Wren Turkal (wt on GitHub; @w00tSoeaks)
+1. Wren Turkal (wt on GitHub; @w00tSpeaks)
 1. Wulf C. Krueger (Exherbo Linux)
 1. Xabier Rodríguez Calvar (Igalia)
 1. Xavier Claessens (Collabora)
